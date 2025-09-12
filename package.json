@@ -74,7 +74,7 @@
     "font-awesome": "~4.7.0",
     "jquery": "2.1.4",
     "lodash": "~4.17",
-    "lottie-web": "^5.12.2",
+    "lottie-web": "^5.13.0",
     "marked": "^11.1.0",
     "moment": "^2.29.4",
     "ng-csv": "0.2.3",
